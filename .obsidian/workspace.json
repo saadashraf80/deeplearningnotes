@@ -42,9 +42,21 @@
               "icon": "excalidraw-icon",
               "title": "Gradient Descent with Momentum"
             }
+          },
+          {
+            "id": "8a98438eeaa71465",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Backpropagation Practice.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Backpropagation Practice"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e4b79b17dbd2f694",
@@ -204,10 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d79dc14e11ddc466",
+  "active": "8a98438eeaa71465",
   "lastOpenFiles": [
-    "Gradient Descent and Backprop.md",
+    "Excalidraw/Backpropagation Practice.md",
+    "Pasted Image 20250917014436_638.png",
+    "Pasted Image 20250917014414_893.png",
     "Excalidraw/Gradient Descent with Momentum.md",
+    "Gradient Descent and Backprop.md",
     "Backpropagation.md",
     "Excalidraw/RMSProp.md",
     "Excalidraw/Drawing 2025-09-15 04.30.05.excalidraw.md",
