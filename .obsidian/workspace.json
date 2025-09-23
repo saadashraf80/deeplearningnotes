@@ -47,12 +47,74 @@
             "id": "8a98438eeaa71465",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Excalidraw/Drawing 2025-09-19 02.25.51.excalidraw.md",
+                "bFile": "Excalidraw/Drawing 2025-09-19 02.25.51.excalidraw.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Drawing 2025-09-19 02.25.51.excalidraw"
+            }
+          },
+          {
+            "id": "f55124322611a87c",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Backpropagation Practice.md"
+                "file": "Excalidraw/Batch Normalization.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Backpropagation Practice"
+              "title": "Batch Normalization"
+            }
+          },
+          {
+            "id": "1eaeefbe087e12cd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Convolutional Neural Networks.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Convolutional Neural Networks"
+            }
+          },
+          {
+            "id": "86e427f60fae640d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Back-propagation quiz practive.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Back-propagation quiz practive"
+            }
+          },
+          {
+            "id": "d480cac43f18a7d7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Back-propagation mini-batch quiz practice.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Back-propagation mini-batch quiz practice"
+            }
+          },
+          {
+            "id": "80648bcb63e00e0d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Back-propagation Recap.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Back-propagation Recap"
             }
           }
         ],
@@ -220,6 +282,12 @@
   "active": "8a98438eeaa71465",
   "lastOpenFiles": [
     "Excalidraw/Backpropagation Practice.md",
+    "Excalidraw/Back-propagation mini-batch quiz practice.md",
+    "Excalidraw/Back-propagation quiz practive.md",
+    "Excalidraw/Back-propagation Recap.md",
+    "Excalidraw/Convolutional Neural Networks.md",
+    "Excalidraw/Batch Normalization.md",
+    "Excalidraw/Drawing 2025-09-19 02.25.51.excalidraw.md",
     "Pasted Image 20250917014436_638.png",
     "Pasted Image 20250917014414_893.png",
     "Excalidraw/Gradient Descent with Momentum.md",
