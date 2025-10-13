@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "d92d9b965d729f10",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Object Detection.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Object Detection"
+            }
+          },
+          {
             "id": "86e427f60fae640d",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -277,9 +289,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ec5fc64e5d262d7",
+  "active": "d92d9b965d729f10",
   "lastOpenFiles": [
     "Excalidraw/Convolutional Layers.md",
+    "Excalidraw/Object Detection.md",
     "Excalidraw/Convolutional Neural Networks.md",
     "Excalidraw/Back-propagation mini-batch quiz practice.md",
     "Excalidraw/Back-propagation quiz practive.md",
