@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "2c259c067c743f5e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Transposed Convolution.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Transposed Convolution"
+            }
+          },
+          {
             "id": "86e427f60fae640d",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -289,10 +301,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d92d9b965d729f10",
+  "active": "2c259c067c743f5e",
   "lastOpenFiles": [
-    "Excalidraw/Convolutional Layers.md",
+    "Pasted Image 20251028015658_983.png",
+    "Pasted Image 20251028005722_960.png",
+    "Pasted Image 20251028005604_110.png",
+    "Pasted Image 20251028005545_315.png",
+    "Pasted Image 20251028005527_380.png",
+    "Pasted Image 20251028005510_548.png",
+    "Pasted Image 20251028005432_899.png",
     "Excalidraw/Object Detection.md",
+    "Excalidraw/Transposed Convolution.md",
+    "Excalidraw/Convolutional Layers.md",
     "Excalidraw/Convolutional Neural Networks.md",
     "Excalidraw/Back-propagation mini-batch quiz practice.md",
     "Excalidraw/Back-propagation quiz practive.md",
